@@ -29,7 +29,7 @@ To list all tags:
 ```bash
 git tag
 ![image](https://github.com/user-attachments/assets/db364125-3c28-4158-afde-5f2232b3fef4)
-
+![second project](/home/reham-ashraf/second_project)
 
 ### How to Delete a Tag Locally and Remotely
 
